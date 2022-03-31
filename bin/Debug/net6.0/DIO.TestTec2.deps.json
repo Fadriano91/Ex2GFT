@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DIO.TestTec2/1.0.0": {
+        "runtime": {
+          "DIO.TestTec2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO.TestTec2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

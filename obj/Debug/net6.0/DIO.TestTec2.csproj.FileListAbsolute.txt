@@ -1,0 +1,15 @@
+C:\Users\Francis\dio\DIO.TestTec2\bin\Debug\net6.0\DIO.TestTec2.exe
+C:\Users\Francis\dio\DIO.TestTec2\bin\Debug\net6.0\DIO.TestTec2.deps.json
+C:\Users\Francis\dio\DIO.TestTec2\bin\Debug\net6.0\DIO.TestTec2.runtimeconfig.json
+C:\Users\Francis\dio\DIO.TestTec2\bin\Debug\net6.0\DIO.TestTec2.dll
+C:\Users\Francis\dio\DIO.TestTec2\bin\Debug\net6.0\ref\DIO.TestTec2.dll
+C:\Users\Francis\dio\DIO.TestTec2\bin\Debug\net6.0\DIO.TestTec2.pdb
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\DIO.TestTec2.csproj.AssemblyReference.cache
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\DIO.TestTec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\DIO.TestTec2.AssemblyInfoInputs.cache
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\DIO.TestTec2.AssemblyInfo.cs
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\DIO.TestTec2.csproj.CoreCompileInputs.cache
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\DIO.TestTec2.dll
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\ref\DIO.TestTec2.dll
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\DIO.TestTec2.pdb
+C:\Users\Francis\dio\DIO.TestTec2\obj\Debug\net6.0\DIO.TestTec2.genruntimeconfig.cache
